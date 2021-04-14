@@ -26,4 +26,8 @@ Comenzamos en Working Directoy y pasamos a Staging Area y finalizamos con Direct
 GITT ADD: Agregar al Staging Area.
 GIT COMMINT:Guardar una versión.
 
+git branch: ver las ramas que existen
+git branch name-branch: crear una rama
+git checkout name-branch: cambiar a la rama name-branch
+git merge branch 'name-branch': fusionar la rama con la rama master
 
