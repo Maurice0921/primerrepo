@@ -30,4 +30,5 @@ git branch: ver las ramas que existen
 git branch name-branch: crear una rama
 git checkout name-branch: cambiar a la rama name-branch
 git merge branch 'name-branch': fusionar la rama con la rama master
+git log --oneline: consultar los repositorios creados
 
